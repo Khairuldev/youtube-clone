@@ -1,0 +1,4 @@
+{
+  "prettier.bracketSameLine": true,
+  "dotenv.enableAutocloaking": false
+}
